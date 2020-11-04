@@ -1,82 +1,79 @@
 {
-  "posts":[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "eum et est occaecati",
-    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "title": "nesciunt quas odio",
-    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "dolorem eum magni eos aperiam quia",
-    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "magnam facilis autem",
-    "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "dolorem dolore est ipsam",
-    "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "nesciunt iure omnis dolorem tempora et accusantium",
-    "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "optio molestias id quia eum",
-    "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
-  },
-  {
-    "userId": 2,
-    "id": 11,
-    "title": "et ea vero quia laudantium autem",
-    "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
-  },
-  {
-    "userId": 2,
-    "id": 12,
-    "title": "in quibusdam tempore odit est dolorem",
-    "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
-  },
-  {
-    "userId": 2,
-    "id": 13,
-    "title": "dolorum ut in voluptas mollitia et saepe quo animi",
-    "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
-  }
-]
+  "posts": [
+    {
+      "id" : 1,
+      "title": "Helping your parents make Medicare choices",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam donec adipiscing tristique risus nec feugiat. Vel quam elementum pulvinar etiam. Convallis posuere morbi leo urna molestie at elementum. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Libero nunc consequat interdum varius sit. Bibendum est ultricies integer quis auctor. Nunc id cursus metus aliquam eleifend mi. Euismod quis viverra nibh cras pulvinar mattis nunc sed. Id nibh tortor id aliquet lectus. Gravida quis blandit turpis cursus in hac habitasse platea. Lectus nulla at volutpat diam ut. Enim sit amet venenatis urna cursus eget nunc scelerisque. Pulvinar mattis nunc sed blandit libero volutpat.</p><p>Sed euismod nisi porta lorem mollis aliquam. Sit amet risus nullam eget felis eget. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Enim ut tellus elementum sagittis vitae et leo duis. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Lectus sit amet est placerat. Molestie nunc non blandit massa enim. Pharetra sit amet aliquam id diam. Purus semper eget duis at tellus. Egestas maecenas pharetra convallis posuere morbi. Laoreet id donec ultrices tincidunt arcu non sodales. Sed elementum tempus egestas sed sed risus pretium.</p>",
+      "pageURL": "",
+      "slug": "These 3 simple exercises can help boost core strength and help with hip pain.",
+      "datePosted": "11/4/2020 09:00",
+      "tags": 0,
+      "topictag": "Health insurance,Medicare,Seniors and agian,Sharp Health Plan",
+      "image": "https://www.sharp.com/health-news/images/Helping-parents-HN2395-iStock-475946898-Sized.jpg",
+      "spotlight": 1,
+      "spotlightTeaser": "Close to 10% of Californians live with diabetes. A diabetes educator can help.",
+      "posts2TitleBarCaption": "How Can Diabetes Be Managed?",
+      "post2MetaDescription": "iabetes experts at Sharp Rees-Stealy can help those diagnosed and living with Type 1, Type 2 or gestational diabetes.",
+      "post2MetaKeywords": "",
+      "featuredImageCaption": "",
+      "author_2": "",
+      "author_3": "",
+      "expert": "",
+      "expert_2": "",
+      "expert_3": "",
+      "expert_4": "",
+      "expert_5": "",
+      "filename": "helping-your-parents-make-medicare-choices.html"
+    },
+    {
+      "id" : 2,
+      "title": "Helping your college kid cope",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam donec adipiscing tristique risus nec feugiat. Vel quam elementum pulvinar etiam. Convallis posuere morbi leo urna molestie at elementum. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Libero nunc consequat interdum varius sit. Bibendum est ultricies integer quis auctor. Nunc id cursus metus aliquam eleifend mi. Euismod quis viverra nibh cras pulvinar mattis nunc sed. Id nibh tortor id aliquet lectus. Gravida quis blandit turpis cursus in hac habitasse platea. Lectus nulla at volutpat diam ut. Enim sit amet venenatis urna cursus eget nunc scelerisque. Pulvinar mattis nunc sed blandit libero volutpat.</p><p>Sed euismod nisi porta lorem mollis aliquam. Sit amet risus nullam eget felis eget. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Enim ut tellus elementum sagittis vitae et leo duis. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Lectus sit amet est placerat. Molestie nunc non blandit massa enim. Pharetra sit amet aliquam id diam. Purus semper eget duis at tellus. Egestas maecenas pharetra convallis posuere morbi. Laoreet id donec ultrices tincidunt arcu non sodales. Sed elementum tempus egestas sed sed risus pretium.</p>",
+      "pageURL": "",
+      "slug": "These 3 simple exercises can help boost core strength and help with hip pain.",
+      "datePosted": "11/3/2020 09:00",
+      "tags": 0,
+      "topictag": "Coronavirus,Mental health,Sharp Mesa Vista Hospital",
+      "image": "https://www.sharp.com/health-news/images/Helping-first-year-college-student-cope-HN2401-iStock-1273859884-Sized.jpg",
+      "spotlight": 1,
+      "spotlightTeaser": "Close to 10% of Californians live with diabetes. A diabetes educator can help.",
+      "posts2TitleBarCaption": "How Can Diabetes Be Managed?",
+      "post2MetaDescription": "iabetes experts at Sharp Rees-Stealy can help those diagnosed and living with Type 1, Type 2 or gestational diabetes.",
+      "post2MetaKeywords": "",
+      "featuredImageCaption": "",
+      "author_2": "",
+      "author_3": "",
+      "expert": "",
+      "expert_2": "",
+      "expert_3": "",
+      "expert_4": "",
+      "expert_5": "",
+      "filename": "helping-your-college-kid-cope.html"
+    },
+    {
+      "id" : 3,
+      "title": "Learning to live with diabetes",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam donec adipiscing tristique risus nec feugiat. Vel quam elementum pulvinar etiam. Convallis posuere morbi leo urna molestie at elementum. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Libero nunc consequat interdum varius sit. Bibendum est ultricies integer quis auctor. Nunc id cursus metus aliquam eleifend mi. Euismod quis viverra nibh cras pulvinar mattis nunc sed. Id nibh tortor id aliquet lectus. Gravida quis blandit turpis cursus in hac habitasse platea. Lectus nulla at volutpat diam ut. Enim sit amet venenatis urna cursus eget nunc scelerisque. Pulvinar mattis nunc sed blandit libero volutpat.</p><p>Sed euismod nisi porta lorem mollis aliquam. Sit amet risus nullam eget felis eget. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Enim ut tellus elementum sagittis vitae et leo duis. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Lectus sit amet est placerat. Molestie nunc non blandit massa enim. Pharetra sit amet aliquam id diam. Purus semper eget duis at tellus. Egestas maecenas pharetra convallis posuere morbi. Laoreet id donec ultrices tincidunt arcu non sodales. Sed elementum tempus egestas sed sed risus pretium.</p>",
+      "pageURL": "",
+      "slug": "These 3 simple exercises can help boost core strength and help with hip pain.",
+      "datePosted": "11/1/2020 09:00",
+      "tags": 0,
+      "topictag": "Diabetes,Family Medicine,Quality of care,Sharp Reese-Stealy Medical Group",
+      "image": "https://www.sharp.com/health-news/images/Diabetes-management-educators-HN2391-iStock-1269022050-Sized.jpg",
+      "spotlight": 1,
+      "spotlightTeaser": "Close to 10% of Californians live with diabetes. A diabetes educator can help.",
+      "posts2TitleBarCaption": "How Can Diabetes Be Managed?",
+      "post2MetaDescription": "iabetes experts at Sharp Rees-Stealy can help those diagnosed and living with Type 1, Type 2 or gestational diabetes.",
+      "post2MetaKeywords": "",
+      "featuredImageCaption": "",
+      "author_2": "",
+      "author_3": "",
+      "expert": "",
+      "expert_2": "",
+      "expert_3": "",
+      "expert_4": "",
+      "expert_5": "",
+      "filename": "learning-to-live-with-diabetes.html"
+    }
+  ]
 }
